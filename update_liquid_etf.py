@@ -58,23 +58,6 @@ ETF_DATA = [
     {"Category":"Factor / Smart Beta","Segment":"Large Cap Multifactor","Ticker":"LRGF","Name":"iShares US Equity Factor ETF","AMC":"iShares"},
     {"Category":"Factor / Smart Beta","Segment":"Buyback","Ticker":"PKW","Name":"Invesco Buyback Achievers ETF","AMC":"Invesco"},
     {"Category":"Factor / Smart Beta","Segment":"Profitability","Ticker":"VPU","Name":"Vanguard Utilities ETF","AMC":"Vanguard"},
-    # Fixed Income – US
-    {"Category":"Fixed Income – US","Segment":"Aggregate Bond","Ticker":"AGG","Name":"iShares Core US Aggregate Bond ETF","AMC":"iShares"},
-    {"Category":"Fixed Income – US","Segment":"Short Term Treasury","Ticker":"SHY","Name":"iShares 1-3 Year Treasury Bond ETF","AMC":"iShares"},
-    {"Category":"Fixed Income – US","Segment":"Intermediate Treasury","Ticker":"IEF","Name":"iShares 7-10 Year Treasury Bond ETF","AMC":"iShares"},
-    {"Category":"Fixed Income – US","Segment":"Long Term Treasury","Ticker":"TLT","Name":"iShares 20+ Year Treasury Bond ETF","AMC":"iShares"},
-    {"Category":"Fixed Income – US","Segment":"TIPS","Ticker":"TIP","Name":"iShares TIPS Bond ETF","AMC":"iShares"},
-    {"Category":"Fixed Income – US","Segment":"Muni Bond","Ticker":"MUB","Name":"iShares National Muni Bond ETF","AMC":"iShares"},
-    {"Category":"Fixed Income – US","Segment":"Floating Rate","Ticker":"FLOT","Name":"iShares Floating Rate Bond ETF","AMC":"iShares"},
-    # Fixed Income – Credit
-    {"Category":"Fixed Income – Credit","Segment":"Investment Grade Corp","Ticker":"LQD","Name":"iShares iBoxx Investment Grade Corp Bond","AMC":"iShares"},
-    {"Category":"Fixed Income – Credit","Segment":"High Yield","Ticker":"HYG","Name":"iShares iBoxx High Yield Corp Bond ETF","AMC":"iShares"},
-    {"Category":"Fixed Income – Credit","Segment":"Short High Yield","Ticker":"SJNK","Name":"SPDR Bloomberg Short Term High Yield","AMC":"SPDR"},
-    {"Category":"Fixed Income – Credit","Segment":"Preferred Stock","Ticker":"PFF","Name":"iShares Preferred & Income Securities ETF","AMC":"iShares"},
-    # Fixed Income – Global
-    {"Category":"Fixed Income – Global","Segment":"Emerging Market Bond","Ticker":"EMB","Name":"iShares JP Morgan USD Emerging Markets Bond","AMC":"iShares"},
-    {"Category":"Fixed Income – Global","Segment":"Global Bond","Ticker":"BNDW","Name":"Vanguard Total World Bond ETF","AMC":"Vanguard"},
-    {"Category":"Fixed Income – Global","Segment":"International Govt","Ticker":"IGOV","Name":"iShares International Treasury Bond ETF","AMC":"iShares"},
     # Commodities
     {"Category":"Commodities","Segment":"Gold (Large)","Ticker":"GLD","Name":"SPDR Gold Shares","AMC":"SPDR"},
     {"Category":"Commodities","Segment":"Gold (Low Cost)","Ticker":"IAU","Name":"iShares Gold Trust","AMC":"iShares"},
