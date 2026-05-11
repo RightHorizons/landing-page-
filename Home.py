@@ -90,9 +90,8 @@ SCANNERS = [
     "tags": ["ETF", "Global", "Treemap", "Rotation"],
     "page": "6_Liquid_ETF_Screener",
     "status": "LIVE",
-},
-]
-{
+    },
+    {                # ← paste HERE, INSIDE the [ ]
         "n": "06",
         "title": "Valuation Tracker",
         "tagline": "Price vs EPS · 25 indices",
@@ -102,10 +101,10 @@ SCANNERS = [
             ("Updates", "Daily", "4:30 PM IST", "neutral"),
         ],
         "tags": ["Valuation", "Macro", "Sector"],
-        "page": "6_Valuation_Tracker",
+        "page": "7_Valuation_Tracker",
         "status": "LIVE",
     },
-
+]
 # ─────────────────────────────────────────────────────
 #  TILE STYLES — refined card design
 # ─────────────────────────────────────────────────────
