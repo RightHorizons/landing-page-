@@ -104,6 +104,19 @@ SCANNERS = [
         "page": "7_Valuation_Tracker",
         "status": "LIVE",
     },
+    {
+    "n": "07",
+    "title": "Institutional Flow",
+    "tagline": "FII & DII equity flow tracker",
+    "desc": "Structural tracking of daily FII/DII cash market flows — trend, Z-score extremes, and DII absorption on sell days.",
+    "metrics": [
+        ("FII Net", "Latest", "Daily/Monthly/Yearly", "neutral"),
+        ("Z-Score", "Deviation", "60-day rolling", "neutral"),
+    ],
+    "tags": ["FII", "DII", "Macro", "Flows"],
+    "page": "6_Institutional_Flow",
+    "status": "LIVE",
+},
 ]
 # ─────────────────────────────────────────────────────
 #  TILE STYLES — refined card design
