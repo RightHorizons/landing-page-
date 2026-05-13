@@ -899,23 +899,7 @@ def render_qoq_heatmap():
     metric_key = {"Price QoQ %": "close", "EPS QoQ %": "eps", "P/E QoQ %": "pe"}[metric]
     metric_label = metric
 
-    # Color scale clamp — keeps normal cells readable even when outliers exist.
-    # Real values always shown as text; cells beyond clamp get ⚡ flag.
-    CLAMP = {"Price QoQ %": 30, "EPS QoQ %": 80, "P/E QoQ %": 50}[metric]
-
-    st.markdown(f"""<div style='font-size:11px;color:{RH_TEXT};background:{RH_SURFACE};
-    border-left:3px solid {RH_GOLD};padding:12px 16px;margin-bottom:18px;line-height:1.6;'>
-    <b style='color:{RH_MAROON};'>How to read this:</b>
-    Each cell shows <b>{metric_label}</b> vs the previous quarter. 8 quarters, most recent on the right.
-    Rows sorted by latest quarter — hottest at the top.
-    <br><br>
-    &nbsp;&nbsp;<b style='color:{RH_GREEN};'>Green</b> = grew &nbsp;|&nbsp;
-    <b style='color:{RH_RED};'>Red</b> = shrank &nbsp;|&nbsp;
-    White = flat &nbsp;|&nbsp;
-    <b style='color:#7B2FBE;'>⚡ Purple</b> = extreme outlier (beyond ±{CLAMP}% colour scale — real value shown)
-    </div>""", unsafe_allow_html=True)
-
-    # ── Build the matrix ──
+    # ── Build the matrix first ──
     ALL_QUARTERS = set()
     index_data = {}
 
@@ -968,14 +952,42 @@ def render_qoq_heatmap():
     latest_q = all_q_sorted[-1]
     df = df.sort_values(latest_q, ascending=False, na_position="last")
 
-    # ── Build clamped z matrix + annotated text ──
-    # z_clamped: values clipped to ±CLAMP for color only
-    # z_real: original values kept for hover
-    # text_labels: show real value, flag outliers with ⚡
+    # ── Compute CLAMP dynamically from actual data ──
+    # Use p5/p95 of values excluding extreme outliers (>500%)
+    # This auto-adapts whether data is sparse annual or dense quarterly
+    all_vals = [v for row in df.values for v in row
+                if v is not None and not (isinstance(v, float) and np.isnan(v)) and abs(v) < 500]
+
+    if all_vals:
+        arr = np.array(all_vals)
+        p5  = float(np.percentile(arr, 5))
+        p95 = float(np.percentile(arr, 95))
+        # Symmetric clamp around 0: use whichever extreme is larger so color scale is centred
+        CLAMP = max(abs(p5), abs(p95))
+        # Round to a clean number for the legend label
+        CLAMP = round(CLAMP / 5) * 5 if CLAMP > 10 else max(5.0, round(CLAMP, 1))
+    else:
+        CLAMP = 20.0
+
+    st.markdown(f"""<div style='font-size:11px;color:{RH_TEXT};background:{RH_SURFACE};
+    border-left:3px solid {RH_GOLD};padding:12px 16px;margin-bottom:18px;line-height:1.6;'>
+    <b style='color:{RH_MAROON};'>How to read this:</b>
+    Each cell shows <b>{metric_label}</b> vs the previous quarter. 8 quarters, most recent on the right.
+    Rows sorted by latest quarter — hottest at the top.
+    <br><br>
+    &nbsp;&nbsp;<b style='color:{RH_GREEN};'>Green</b> = grew &nbsp;|&nbsp;
+    <b style='color:{RH_RED};'>Red</b> = shrank &nbsp;|&nbsp;
+    White = flat &nbsp;|&nbsp;
+    <b style='color:#7B2FBE;'>⚡ Purple</b> = extreme outlier (beyond ±{CLAMP:.0f}% colour scale — real value shown)
+    </div>""", unsafe_allow_html=True)
+
+    row_height = 30
+    chart_height = max(580, row_height * len(df) + 120)
+
+    # Build clamped z matrix — color uses clamped values, text + hover show real values
     z_real    = df.values.tolist()
     z_clamped = []
     text_labels = []
-
     for row in z_real:
         z_row, t_row = [], []
         for v in row:
@@ -985,13 +997,9 @@ def render_qoq_heatmap():
             else:
                 is_outlier = abs(v) > CLAMP
                 z_row.append(float(np.clip(v, -CLAMP, CLAMP)))
-                label = f"⚡{v:+.0f}%" if is_outlier else f"{v:+.1f}%"
-                t_row.append(label)
+                t_row.append(f"⚡{v:+.0f}%" if is_outlier else f"{v:+.1f}%")
         z_clamped.append(z_row)
         text_labels.append(t_row)
-
-    row_height = 30
-    chart_height = max(580, row_height * len(df) + 120)
 
     fig = go.Figure(data=go.Heatmap(
         z=z_clamped,
