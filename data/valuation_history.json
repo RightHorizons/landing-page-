@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-25T15:41:12.182631",
+  "last_updated": "2026-09-28T18:19:03.360421",
   "indices": {
     "NIFTY 50": {
       "snapshots": [
@@ -1334,6 +1334,15 @@
           "pb": 2.8,
           "eps": 1183.05,
           "rsi": 34.0,
+          "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 22780.25,
+          "pe": 19.26,
+          "pb": 2.75,
+          "eps": 1182.78,
+          "rsi": 27.44,
           "source": "nse+yf"
         }
       ]
@@ -2671,6 +2680,15 @@
           "eps": 3783.8,
           "rsi": 44.28,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 70309.5,
+          "pe": 18.59,
+          "pb": 3.13,
+          "eps": 3782.11,
+          "rsi": 35.48,
+          "source": "nse+yf"
         }
       ]
     },
@@ -4007,6 +4025,15 @@
           "eps": null,
           "rsi": null,
           "source": "yf_only"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 59914.2,
+          "pe": null,
+          "pb": null,
+          "eps": null,
+          "rsi": null,
+          "source": "yf_only"
         }
       ]
     },
@@ -5190,6 +5217,15 @@
           "eps": 799.61,
           "rsi": null,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 22071.3,
+          "pe": 27.6,
+          "pb": 4.11,
+          "eps": 799.68,
+          "rsi": null,
+          "source": "nse+yf"
         }
       ]
     },
@@ -6371,6 +6407,15 @@
           "pe": 33.51,
           "pb": 3.43,
           "eps": 541.89,
+          "rsi": null,
+          "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 17863.2,
+          "pe": 32.96,
+          "pb": 3.38,
+          "eps": 541.97,
           "rsi": null,
           "source": "nse+yf"
         }
@@ -7709,6 +7754,15 @@
           "eps": 4226.65,
           "rsi": 37.52,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 54471.65,
+          "pe": 12.89,
+          "pb": 1.63,
+          "eps": 4225.88,
+          "rsi": 29.92,
+          "source": "nse+yf"
         }
       ]
     },
@@ -8899,6 +8953,15 @@
           "pe": 16.74,
           "pb": 1.93,
           "eps": 1605.93,
+          "rsi": null,
+          "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 26476.4,
+          "pe": 16.49,
+          "pb": 1.9,
+          "eps": 1605.6,
           "rsi": null,
           "source": "nse+yf"
         }
@@ -10237,6 +10300,15 @@
           "eps": 1111.86,
           "rsi": null,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 8026.1,
+          "pe": 7.22,
+          "pb": 1.11,
+          "eps": 1111.65,
+          "rsi": null,
+          "source": "nse+yf"
         }
       ]
     },
@@ -11571,6 +11643,15 @@
           "pe": 15.39,
           "pb": 2.32,
           "eps": 1630.59,
+          "rsi": null,
+          "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 24671.65,
+          "pe": 15.13,
+          "pb": 2.28,
+          "eps": 1630.64,
           "rsi": null,
           "source": "nse+yf"
         }
@@ -12909,6 +12990,15 @@
           "eps": 860.77,
           "rsi": null,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 26525.05,
+          "pe": 30.82,
+          "pb": 4.05,
+          "eps": 860.64,
+          "rsi": null,
+          "source": "nse+yf"
         }
       ]
     },
@@ -14245,6 +14335,15 @@
           "eps": 1567.98,
           "rsi": 31.65,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 28086.5,
+          "pe": 17.92,
+          "pb": 4.93,
+          "eps": 1567.33,
+          "rsi": 30.99,
+          "source": "nse+yf"
         }
       ]
     },
@@ -15579,6 +15678,15 @@
           "pe": 22.1,
           "pb": 2.59,
           "eps": 405.31,
+          "rsi": null,
+          "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 8782.5,
+          "pe": 21.67,
+          "pb": 2.54,
+          "eps": 405.28,
           "rsi": null,
           "source": "nse+yf"
         }
@@ -16917,6 +17025,15 @@
           "eps": 1441.52,
           "rsi": null,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 45264.35,
+          "pe": 31.4,
+          "pb": 7.52,
+          "eps": 1441.54,
+          "rsi": null,
+          "source": "nse+yf"
         }
       ]
     },
@@ -18253,6 +18370,15 @@
           "eps": 23.55,
           "rsi": null,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 850.9,
+          "pe": 36.14,
+          "pb": 3.7,
+          "eps": 23.54,
+          "rsi": null,
+          "source": "nse+yf"
         }
       ]
     },
@@ -19587,6 +19713,15 @@
           "pe": 14.52,
           "pb": 2.01,
           "eps": 2578.54,
+          "rsi": null,
+          "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 36693.2,
+          "pe": 14.23,
+          "pb": 1.97,
+          "eps": 2578.58,
           "rsi": null,
           "source": "nse+yf"
         }
@@ -21244,6 +21379,15 @@
           "eps": 519.21,
           "rsi": 46.0,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 6247.7,
+          "pe": 12.03,
+          "pb": 1.81,
+          "eps": 519.34,
+          "rsi": 35.0,
+          "source": "nse+yf"
         }
       ]
     },
@@ -22710,6 +22854,15 @@
           "eps": 645.85,
           "rsi": 57.8,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 26761.65,
+          "pe": 41.44,
+          "pb": 5.03,
+          "eps": 645.79,
+          "rsi": 51.8,
+          "source": "nse+yf"
         }
       ]
     },
@@ -24046,6 +24199,15 @@
           "eps": 307.11,
           "rsi": null,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 11270.1,
+          "pe": 36.7,
+          "pb": 6.68,
+          "eps": 307.09,
+          "rsi": null,
+          "source": "nse+yf"
         }
       ]
     },
@@ -25380,6 +25542,15 @@
           "pe": 14.78,
           "pb": 1.91,
           "eps": 645.52,
+          "rsi": null,
+          "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 9366.4,
+          "pe": 14.51,
+          "pb": 1.87,
+          "eps": 645.51,
           "rsi": null,
           "source": "nse+yf"
         }
@@ -27014,6 +27185,15 @@
           "eps": 821.54,
           "rsi": null,
           "source": "nse+yf"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 12854.4,
+          "pe": 15.65,
+          "pb": 2.55,
+          "eps": 821.37,
+          "rsi": null,
+          "source": "nse+yf"
         }
       ]
     },
@@ -28349,6 +28529,15 @@
           "pb": null,
           "eps": null,
           "rsi": 63.91,
+          "source": "yf_only"
+        },
+        {
+          "date": "2026-09-28",
+          "close": 30349.81,
+          "pe": null,
+          "pb": null,
+          "eps": null,
+          "rsi": 59.87,
           "source": "yf_only"
         }
       ]
