@@ -1,143 +1,143 @@
 Category,Segment,Ticker,Name,AMC,CMP_Baseline,1W (%),1M (%),3M (%),6M (%),1Y (%),52W High,52W Low,30D_Volume_Baseline
-US Equity – Broad Market,S&P 500,SPY,SPDR S&P 500 ETF Trust,SPDR,764.2,-1.19,-0.42,5.09,17.19,16.39,775.95,628.78,42129085.0
-US Equity – Broad Market,S&P 500 Low Cost,VOO,Vanguard S&P 500 ETF,Vanguard,702.46,-1.19,-0.42,5.07,17.23,16.46,713.12,577.76,8873531.0
-US Equity – Broad Market,Nasdaq 100,QQQ,Invesco QQQ Trust,Invesco,737.93,-1.27,3.11,4.55,25.77,23.83,747.46,557.09,32479687.0
-US Equity – Broad Market,Total US Market,VTI,Vanguard Total Stock Market ETF,Vanguard,375.26,-1.33,-0.83,3.86,16.74,16.03,383.33,310.0,2944007.0
-US Equity – Broad Market,Dow Jones 30,DIA,SPDR Dow Jones Industrial Average,SPDR,512.88,-0.99,-3.92,-0.6,11.81,12.4,541.11,448.19,3198066.0
-US Equity – Broad Market,Russell 2000,IWM,iShares Russell 2000 ETF,iShares,279.01,-2.86,-5.41,-6.7,13.32,16.65,304.3,226.81,21179831.0
-US Equity – Broad Market,S&P 400 Mid Cap,IJH,iShares Core S&P Mid-Cap ETF,iShares,72.37,-1.5,-4.18,-4.76,8.49,12.45,78.43,61.47,6647621.0
-US Equity – Broad Market,Equal Weight S&P 500,RSP,Invesco S&P 500 Equal Weight ETF,Invesco,209.5,-1.55,-4.71,-0.01,10.13,12.5,221.94,179.31,6211055.0
-US Equity – Sector,Technology,XLK,Technology Select Sector SPDR,SPDR,194.5,-0.9,4.87,7.52,42.36,39.48,197.74,127.2,6676524.0
-US Equity – Sector,Financials,XLF,Financial Select Sector SPDR,SPDR,54.01,-1.44,-6.71,1.18,10.39,1.35,58.35,47.48,34335679.0
-US Equity – Sector,Healthcare,XLV,Health Care Select Sector SPDR,SPDR,170.73,0.49,0.13,6.89,18.91,27.73,175.01,133.67,7970268.0
-US Equity – Sector,Energy,XLE,Energy Select Sector SPDR,SPDR,61.54,-0.39,-1.24,14.98,4.57,40.19,65.54,41.43,31168089.0
-US Equity – Sector,Industrials,XLI,Industrial Select Sector SPDR,SPDR,169.13,-0.67,-4.27,-6.41,4.26,11.77,186.01,146.16,7420985.0
-US Equity – Sector,Consumer Disc,XLY,Consumer Discretionary SPDR,SPDR,109.15,-2.83,-6.67,-4.35,-0.46,-8.58,123.75,105.22,5999363.0
-US Equity – Sector,Consumer Staples,XLP,Consumer Staples SPDR,SPDR,81.85,-1.06,-3.58,-2.74,2.19,7.66,88.31,73.58,10212018.0
-US Equity – Sector,Materials,XLB,Materials Select Sector SPDR,SPDR,49.1,-2.83,-7.25,-4.41,4.12,12.1,53.42,41.48,11080269.0
-US Equity – Sector,Utilities,XLU,Utilities Select Sector SPDR,SPDR,39.71,-2.02,-6.38,-13.42,-10.1,-6.17,46.75,39.25,23977880.0
-US Equity – Sector,Real Estate,XLRE,Real Estate Select Sector SPDR,SPDR,41.34,-2.73,-6.28,-7.85,3.53,2.0,45.63,38.96,5346546.0
-US Equity – Sector,Comm Services,XLC,Communication Services SPDR,SPDR,111.47,-1.81,-1.02,5.33,-0.52,-4.81,119.0,105.03,5136369.0
-US Equity – Market Cap,Mega Cap,MGC,Vanguard Mega Cap ETF,Vanguard,282.79,-1.4,0.23,6.07,18.75,17.26,286.81,228.75,74889.0
-US Equity – Market Cap,Large Cap,IVV,iShares Core S&P 500 ETF,iShares,767.52,-1.2,-0.42,5.42,17.24,16.47,779.22,631.4,8653406.0
-US Equity – Market Cap,Mid Cap,VO,Vanguard Mid-Cap ETF,Vanguard,79.04,-1.79,-4.19,-1.19,10.33,9.03,84.46,68.76,2252652.0
-US Equity – Market Cap,Micro Cap,IWC,iShares Micro-Cap ETF,iShares,185.71,-3.66,-4.55,-4.5,16.38,25.61,200.42,142.38,116433.0
-US Equity – Style,Large Cap Growth,IVW,iShares S&P 500 Growth ETF,iShares,142.34,-0.85,1.75,7.46,23.37,18.91,143.56,108.51,1433433.0
-US Equity – Style,Large Cap Value,IVE,iShares S&P 500 Value ETF,iShares,229.34,-1.62,-2.97,1.65,10.23,13.26,237.51,199.25,557057.0
-US Equity – Style,Mid Cap Growth,IJK,iShares S&P Mid-Cap 400 Growth,iShares,109.93,-1.26,-3.15,-4.52,9.4,15.35,118.9,90.9,302834.0
-US Equity – Style,Mid Cap Value,IJJ,iShares S&P Mid-Cap 400 Value,iShares,138.93,-1.89,-5.34,-5.47,7.23,9.2,151.06,121.83,154926.0
-US Equity – Style,Small Cap Growth,IJT,iShares S&P Small-Cap 600 Growth,iShares,161.34,-1.85,-5.48,-8.29,12.8,15.11,178.68,131.92,218398.0
-US Equity – Style,Small Cap Value,IJS,iShares S&P Small-Cap 600 Value,iShares,128.95,-2.12,-5.84,-5.43,11.42,18.52,140.09,103.2,240868.0
-Factor / Smart Beta,Quality,QUAL,iShares MSCI USA Quality Factor ETF,iShares,223.23,0.07,0.04,4.7,15.55,16.51,226.69,185.76,952992.0
-Factor / Smart Beta,Momentum,MTUM,iShares MSCI USA Momentum Factor ETF,iShares,316.93,-0.31,5.96,-2.51,30.02,24.81,344.53,230.05,1417856.0
-Factor / Smart Beta,Value,VLUE,iShares MSCI USA Value Factor ETF,iShares,198.61,-2.02,-0.86,-0.27,39.26,62.06,204.54,120.04,517360.0
-Factor / Smart Beta,Min Volatility,USMV,iShares MSCI USA Min Vol Factor ETF,iShares,97.79,-1.13,-3.57,2.21,6.1,4.76,101.65,90.54,1595300.0
-Factor / Smart Beta,Low Volatility,SPLV,Invesco S&P 500 Low Volatility ETF,Invesco,71.19,-1.04,-5.0,-5.5,-0.65,-0.3,77.67,68.87,1882712.0
-Factor / Smart Beta,High Dividend,HDV,iShares Core High Dividend ETF,iShares,28.18,-1.33,-4.1,2.06,7.6,19.34,29.87,22.91,4148449.0
-Factor / Smart Beta,Dividend Growth,VIG,Vanguard Dividend Appreciation ETF,Vanguard,235.15,-0.82,-2.88,0.65,10.73,11.36,245.64,208.98,955989.0
-Factor / Smart Beta,Large Cap Multifactor,LRGF,iShares US Equity Factor ETF,iShares,78.01,-1.17,-0.34,5.25,18.18,14.49,79.14,63.8,181635.0
-Factor / Smart Beta,Buyback,PKW,Invesco Buyback Achievers ETF,Invesco,143.72,-1.49,-5.83,1.75,9.85,9.01,154.34,124.65,34407.0
-Factor / Smart Beta,Profitability,VPU,Vanguard Utilities ETF,Vanguard,172.14,-1.97,-6.16,-13.17,-9.81,-6.32,201.72,170.29,371000.0
-Commodities,Gold (Large),GLD,SPDR Gold Shares,SPDR,382.89,-4.29,-6.36,2.48,-5.23,8.63,495.9,352.46,10941125.0
-Commodities,Gold (Low Cost),IAU,iShares Gold Trust,iShares,78.52,-4.28,-6.32,2.56,-5.15,8.81,101.57,72.16,5610529.0
-Commodities,Silver,SLV,iShares Silver Trust,iShares,55.48,-8.64,-7.56,4.13,-11.19,30.54,105.6,42.37,16822223.0
-Commodities,Broad Commodities,PDBC,Invesco Optimum Yield Diversified Commodity,Invesco,19.09,-1.39,3.81,20.29,15.07,47.12,20.1,12.67,5626424.0
-Commodities,Crude Oil,USO,United States Oil Fund LP,USCF,143.35,-0.51,10.52,35.9,29.66,92.18,161.86,66.17,5619779.0
-Commodities,Energy Commodities,DBE,Invesco DB Energy Fund,Invesco,35.75,-0.28,10.89,38.24,27.95,93.98,38.99,17.02,48891.0
-Commodities,Natural Gas,UNG,United States Natural Gas Fund LP,USCF,10.35,-4.7,0.19,-12.81,-11.76,-19.27,16.9,9.63,20857177.0
-Commodities,Copper,CPER,United States Copper Index Fund,USCF,39.93,-3.62,0.66,6.96,19.09,31.83,41.43,30.0,551896.0
-Commodities,Wheat,WEAT,Teucrium Wheat Fund,Teucrium,25.05,-3.62,-10.54,12.99,10.45,19.57,28.0,19.88,702030.0
-Commodities,Gold Miners,GDX,VanEck Gold Miners ETF,VanEck,89.07,-8.95,-10.62,15.68,6.82,18.49,115.84,67.79,23492506.0
-Alternatives,Global REIT,REET,iShares Global REIT ETF,iShares,25.98,-1.74,-5.34,-6.75,4.92,6.0,28.64,23.93,3039306.0
-Alternatives,Managed Futures,DBMF,iMGP DBi Managed Futures Strategy ETF,iMGP,32.43,1.66,3.25,7.72,10.74,24.94,32.77,25.86,2531631.0
-Alternatives,Merger Arb,MNA,IQ Merger Arbitrage ETF,IQ,36.75,-0.41,0.44,0.8,1.04,2.74,36.93,35.57,32361.0
-Alternatives,Market Neutral,BTAL,AGF US Market Neutral Anti-Beta Fund,AGF,11.98,0.42,-2.2,5.36,-13.56,-22.12,15.57,10.92,620575.0
-Alternatives,VIX Short Term,UVXY,ProShares Ultra VIX Short-Term Futures ETF,ProShares,16.99,2.16,-7.91,-37.58,-65.94,-67.58,68.75,16.63,7280018.0
-Alternatives,S&P 500 Inverse,SH,ProShares Short S&P500,ProShares,32.3,1.24,0.83,-3.44,-12.52,-9.68,38.31,31.61,8208999.0
-Alternatives,Balanced Allocation,AOM,iShares Core Moderate Allocation ETF,iShares,48.83,-1.63,-1.97,-0.76,4.77,6.11,50.08,45.8,336164.0
-Alternatives,Global Infrastructure,IGF,iShares Global Infrastructure ETF,iShares,61.86,-2.26,-4.77,-8.25,-4.87,4.66,68.41,59.1,861840.0
-Thematic – Technology,Semiconductors,SOXX,iShares Semiconductor ETF,iShares,567.44,-0.93,11.64,-3.75,68.78,111.68,654.58,267.24,6998599.0
-Thematic – Technology,Robotics & AI,BOTZ,Global X Robotics & AI ETF,Global X,35.24,-2.14,-1.43,-2.09,2.97,0.94,41.61,31.97,623594.0
-Thematic – Technology,Cloud Computing,SKYY,First Trust Cloud Computing ETF,First Trust,162.75,-2.77,-1.45,25.61,42.94,20.4,168.91,104.16,210542.0
-Thematic – Technology,Cybersecurity,CIBR,First Trust Nasdaq Cybersecurity ETF,First Trust,101.97,-0.59,3.46,19.46,57.29,34.7,104.01,60.69,1694087.0
-Thematic – Technology,Fintech,FINX,Global X FinTech ETF,Global X,24.61,-5.33,-9.22,-0.99,0.62,-27.25,34.95,22.21,46597.0
-Thematic – Technology,IoT,SNSR,Global X Internet of Things ETF,Global X,49.06,-0.69,4.14,3.09,29.8,27.04,53.71,34.14,11954.0
-Thematic – Technology,Blockchain,BLOK,Amplify Transformational Data Sharing ETF,Amplify,61.97,-7.67,-0.16,-1.78,17.27,-6.73,73.49,47.3,241447.0
-Thematic – Technology,eSports & Gaming,ESPO,VanEck Video Gaming and eSports ETF,VanEck,95.79,-3.28,-2.0,10.73,6.11,-20.51,120.62,85.25,12336.0
-Thematic – Technology,E-Commerce,IBUY,Amplify Online Retail ETF,Amplify,66.77,-2.33,-9.35,-4.05,7.27,-13.71,77.37,60.37,11098.0
-Thematic – Technology,Disruptive Tech,ARKK,ARK Innovation ETF,ARK,89.45,-2.36,5.75,14.49,26.13,3.81,92.53,63.52,4759691.0
-Thematic – Energy & Climate,Clean Energy,ICLN,iShares Global Clean Energy ETF,iShares,17.01,-4.6,-2.69,-12.77,-6.18,11.54,23.69,15.25,6914610.0
-Thematic – Energy & Climate,Solar,TAN,Invesco Solar ETF,Invesco,43.43,-6.6,-10.73,-23.61,-21.02,-0.89,73.93,43.0,833343.0
-Thematic – Energy & Climate,EVs & Future Mobility,DRIV,Global X Autonomous & Electric Vehicles ETF,Global X,33.15,-3.53,-4.12,-10.34,9.88,19.09,42.45,27.39,37395.0
-Thematic – Energy & Climate,Lithium & Battery,LIT,Global X Lithium & Battery Tech ETF,Global X,68.54,-3.91,-9.9,-9.34,-1.51,22.16,91.23,53.54,224320.0
-Thematic – Energy & Climate,Uranium,URNM,Sprott Uranium Miners ETF,Sprott,48.25,-8.6,-14.84,-9.05,-19.78,-17.33,83.99,47.13,684434.0
-Thematic – Energy & Climate,Water,PHO,Invesco Water Resources ETF,Invesco,68.31,-0.87,-4.91,-1.34,2.6,-3.8,74.2,63.98,71706.0
-Thematic – Healthcare,Biotech,IBB,iShares Biotechnology ETF,iShares,211.04,0.11,1.01,12.64,29.74,48.49,216.95,142.12,1594463.0
-Thematic – Healthcare,Genomics,ARKG,ARK Genomic Revolution ETF,ARK,53.95,2.04,13.25,30.22,102.59,97.84,53.95,24.82,4507034.0
+US Equity – Broad Market,S&P 500,SPY,SPDR S&P 500 ETF Trust,SPDR,762.63,-0.67,-0.33,3.17,17.35,15.71,775.95,628.78,42393321.0
+US Equity – Broad Market,S&P 500 Low Cost,VOO,Vanguard S&P 500 ETF,Vanguard,700.86,-0.7,-0.32,3.18,17.36,15.77,713.12,577.76,8913279.0
+US Equity – Broad Market,Nasdaq 100,QQQ,Invesco QQQ Trust,Invesco,739.77,-0.19,3.32,2.27,26.95,23.8,747.46,557.09,32480329.0
+US Equity – Broad Market,Total US Market,VTI,Vanguard Total Stock Market ETF,Vanguard,374.24,-0.81,-0.78,2.2,16.79,15.34,383.33,310.0,3025749.0
+US Equity – Broad Market,Dow Jones 30,DIA,SPDR Dow Jones Industrial Average,SPDR,508.55,-1.12,-4.11,-2.18,11.06,11.28,541.11,448.19,3243120.0
+US Equity – Broad Market,Russell 2000,IWM,iShares Russell 2000 ETF,iShares,277.89,-1.43,-5.21,-6.81,12.26,16.02,304.3,226.81,21809212.0
+US Equity – Broad Market,S&P 400 Mid Cap,IJH,iShares Core S&P Mid-Cap ETF,iShares,71.95,-1.48,-4.22,-5.7,6.98,11.67,78.43,61.47,6923839.0
+US Equity – Broad Market,Equal Weight S&P 500,RSP,Invesco S&P 500 Equal Weight ETF,Invesco,208.02,-1.56,-4.83,-1.99,9.22,11.41,221.94,179.31,6427907.0
+US Equity – Sector,Technology,XLK,Technology Select Sector SPDR,SPDR,195.75,0.21,5.08,5.7,44.11,39.61,197.74,127.2,6798598.0
+US Equity – Sector,Financials,XLF,Financial Select Sector SPDR,SPDR,53.4,-2.09,-7.14,-0.24,9.12,0.69,58.35,47.48,34516755.0
+US Equity – Sector,Healthcare,XLV,Health Care Select Sector SPDR,SPDR,168.42,-0.23,-0.87,5.18,17.28,23.04,175.01,136.88,7760768.0
+US Equity – Sector,Energy,XLE,Energy Select Sector SPDR,SPDR,61.5,-1.39,-3.27,15.46,2.42,41.6,65.54,41.43,31744393.0
+US Equity – Sector,Industrials,XLI,Industrial Select Sector SPDR,SPDR,166.98,-1.83,-4.4,-8.39,2.34,9.5,186.01,146.16,7456172.0
+US Equity – Sector,Consumer Disc,XLY,Consumer Discretionary SPDR,SPDR,108.84,-1.64,-6.44,-6.87,-0.35,-8.42,123.75,105.22,6007030.0
+US Equity – Sector,Consumer Staples,XLP,Consumer Staples SPDR,SPDR,80.6,-2.22,-4.53,-3.84,0.72,5.67,88.31,73.58,10267779.0
+US Equity – Sector,Materials,XLB,Materials Select Sector SPDR,SPDR,48.7,-3.14,-7.15,-3.43,1.36,10.65,53.42,41.48,11573512.0
+US Equity – Sector,Utilities,XLU,Utilities Select Sector SPDR,SPDR,39.44,-0.78,-5.92,-13.67,-11.32,-6.97,46.75,39.25,25503356.0
+US Equity – Sector,Real Estate,XLRE,Real Estate Select Sector SPDR,SPDR,,,,,,,,,
+US Equity – Sector,Comm Services,XLC,Communication Services SPDR,SPDR,110.97,-1.41,-0.11,3.2,0.45,-5.09,119.0,105.03,5245837.0
+US Equity – Market Cap,Mega Cap,MGC,Vanguard Mega Cap ETF,Vanguard,282.31,-0.79,0.31,4.16,19.25,16.56,286.81,228.75,76364.0
+US Equity – Market Cap,Large Cap,IVV,iShares Core S&P 500 ETF,iShares,765.85,-0.7,-0.35,3.21,17.36,15.78,779.22,631.4,8709130.0
+US Equity – Market Cap,Mid Cap,VO,Vanguard Mid-Cap ETF,Vanguard,78.42,-1.89,-4.44,-2.55,9.09,7.95,84.46,68.76,2268973.0
+US Equity – Market Cap,Micro Cap,IWC,iShares Micro-Cap ETF,iShares,184.8,-1.61,-4.25,-6.71,15.59,25.34,200.42,142.38,128682.0
+US Equity – Style,Large Cap Growth,IVW,iShares S&P 500 Growth ETF,iShares,142.26,0.04,2.0,5.01,24.4,18.29,143.56,108.51,1470687.0
+US Equity – Style,Large Cap Value,IVE,iShares S&P 500 Value ETF,iShares,228.28,-1.57,-3.1,0.89,9.44,12.35,237.51,199.25,574774.0
+US Equity – Style,Mid Cap Growth,IJK,iShares S&P Mid-Cap 400 Growth,iShares,109.61,-0.98,-2.96,-5.3,8.25,15.0,118.9,90.9,358881.0
+US Equity – Style,Mid Cap Value,IJJ,iShares S&P Mid-Cap 400 Value,iShares,137.71,-2.08,-5.64,-6.13,5.46,7.98,151.06,121.83,170835.0
+US Equity – Style,Small Cap Growth,IJT,iShares S&P Small-Cap 600 Growth,iShares,160.33,-1.4,-5.29,-9.08,11.54,14.23,178.68,131.92,233001.0
+US Equity – Style,Small Cap Value,IJS,iShares S&P Small-Cap 600 Value,iShares,128.1,-1.63,-5.84,-5.65,9.62,17.54,140.09,103.2,269153.0
+Factor / Smart Beta,Quality,QUAL,iShares MSCI USA Quality Factor ETF,iShares,222.24,0.05,0.04,2.5,15.42,15.31,226.69,185.76,978747.0
+Factor / Smart Beta,Momentum,MTUM,iShares MSCI USA Momentum Factor ETF,iShares,317.34,0.12,5.87,-5.36,29.65,24.58,344.53,230.05,1402617.0
+Factor / Smart Beta,Value,VLUE,iShares MSCI USA Value Factor ETF,iShares,198.0,-1.54,-1.29,-0.96,37.77,61.3,204.54,120.04,538625.0
+Factor / Smart Beta,Min Volatility,USMV,iShares MSCI USA Min Vol Factor ETF,iShares,97.44,-1.22,-3.7,1.66,6.24,3.93,101.65,90.54,1611038.0
+Factor / Smart Beta,Low Volatility,SPLV,Invesco S&P 500 Low Volatility ETF,Invesco,70.51,-1.18,-5.41,-6.19,-1.57,-1.87,77.67,68.87,1912003.0
+Factor / Smart Beta,High Dividend,HDV,iShares Core High Dividend ETF,iShares,27.96,-1.62,-5.04,1.85,6.25,17.84,29.87,22.91,3849867.0
+Factor / Smart Beta,Dividend Growth,VIG,Vanguard Dividend Appreciation ETF,Vanguard,233.31,-1.07,-3.24,-0.73,9.71,9.87,245.64,208.98,979656.0
+Factor / Smart Beta,Large Cap Multifactor,LRGF,iShares US Equity Factor ETF,iShares,77.85,-0.61,-0.34,3.86,18.23,13.99,79.14,63.8,191333.0
+Factor / Smart Beta,Buyback,PKW,Invesco Buyback Achievers ETF,Invesco,143.08,-1.45,-5.88,0.73,9.07,8.76,154.34,124.65,34838.0
+Factor / Smart Beta,Profitability,VPU,Vanguard Utilities ETF,Vanguard,171.0,-0.84,-5.82,-13.36,-11.04,-7.19,201.72,170.29,382749.0
+Commodities,Gold (Large),GLD,SPDR Gold Shares,SPDR,380.84,-3.06,-6.75,3.33,-5.76,7.14,495.9,354.79,10555221.0
+Commodities,Gold (Low Cost),IAU,iShares Gold Trust,iShares,78.1,-3.01,-6.7,3.4,-5.63,7.32,101.57,72.65,5393867.0
+Commodities,Silver,SLV,iShares Silver Trust,iShares,54.51,-6.28,-9.35,3.47,-13.41,28.65,105.6,42.37,16514522.0
+Commodities,Broad Commodities,PDBC,Invesco Optimum Yield Diversified Commodity,Invesco,19.3,-1.58,3.49,21.84,14.34,49.29,20.1,12.67,5809556.0
+Commodities,Crude Oil,USO,United States Oil Fund LP,USCF,145.66,-2.13,8.95,36.03,27.17,97.51,161.86,66.17,5670363.0
+Commodities,Energy Commodities,DBE,Invesco DB Energy Fund,Invesco,36.71,-1.0,11.24,40.17,26.85,100.55,38.99,17.02,49738.0
+Commodities,Natural Gas,UNG,United States Natural Gas Fund LP,USCF,10.37,-4.6,-1.61,-9.27,-11.59,-20.66,16.9,9.63,21571266.0
+Commodities,Copper,CPER,United States Copper Index Fund,USCF,39.78,-2.04,-0.55,6.85,19.28,32.6,41.43,30.0,549820.0
+Commodities,Wheat,WEAT,Teucrium Wheat Fund,Teucrium,24.57,-4.32,-11.65,12.65,8.24,19.56,28.0,19.88,700939.0
+Commodities,Gold Miners,GDX,VanEck Gold Miners ETF,VanEck,87.8,-6.16,-10.87,16.01,5.15,15.76,115.84,67.79,22795484.0
+Alternatives,Global REIT,REET,iShares Global REIT ETF,iShares,25.78,-1.38,-5.45,-7.3,4.53,4.53,28.64,23.93,3077244.0
+Alternatives,Managed Futures,DBMF,iMGP DBi Managed Futures Strategy ETF,iMGP,32.53,0.22,3.66,7.11,10.48,25.19,32.77,25.86,2636446.0
+Alternatives,Merger Arb,MNA,IQ Merger Arbitrage ETF,IQ,36.83,-0.08,0.57,0.9,1.21,2.59,36.93,35.57,30132.0
+Alternatives,Market Neutral,BTAL,AGF US Market Neutral Anti-Beta Fund,AGF,12.0,-0.17,-2.12,7.05,-12.79,-22.73,15.57,10.92,644184.0
+Alternatives,VIX Short Term,UVXY,ProShares Ultra VIX Short-Term Futures ETF,ProShares,17.27,1.35,-3.9,-32.83,-66.51,-66.92,68.75,16.63,7237855.0
+Alternatives,S&P 500 Inverse,SH,ProShares Short S&P500,ProShares,32.4,0.84,0.77,-1.68,-12.53,-9.06,38.31,31.61,8578526.0
+Alternatives,Balanced Allocation,AOM,iShares Core Moderate Allocation ETF,iShares,48.74,-0.93,-1.99,-1.4,4.86,5.72,50.08,45.8,356986.0
+Alternatives,Global Infrastructure,IGF,iShares Global Infrastructure ETF,iShares,61.56,-1.3,-5.5,-8.62,-5.91,3.8,68.41,59.16,895124.0
+Thematic – Technology,Semiconductors,SOXX,iShares Semiconductor ETF,iShares,568.64,0.52,11.34,-7.38,66.94,110.41,654.58,267.24,6922311.0
+Thematic – Technology,Robotics & AI,BOTZ,Global X Robotics & AI ETF,Global X,35.23,-0.17,-1.84,-4.42,4.22,-0.09,41.61,31.97,615676.0
+Thematic – Technology,Cloud Computing,SKYY,First Trust Cloud Computing ETF,First Trust,163.99,-2.12,-0.82,23.39,48.23,22.0,168.91,104.16,212995.0
+Thematic – Technology,Cybersecurity,CIBR,First Trust Nasdaq Cybersecurity ETF,First Trust,103.09,-0.88,2.94,16.49,63.86,36.36,104.01,60.69,1725886.0
+Thematic – Technology,Fintech,FINX,Global X FinTech ETF,Global X,24.26,-4.59,-10.18,-3.15,3.37,-27.09,34.95,22.21,46925.0
+Thematic – Technology,IoT,SNSR,Global X Internet of Things ETF,Global X,48.83,-0.76,3.52,0.08,29.23,25.89,53.71,34.14,10115.0
+Thematic – Technology,Blockchain,BLOK,Amplify Transformational Data Sharing ETF,Amplify,61.23,-6.53,-2.05,-2.82,18.24,-7.91,73.49,47.3,253411.0
+Thematic – Technology,eSports & Gaming,ESPO,VanEck Video Gaming and eSports ETF,VanEck,96.51,-1.3,-0.91,7.95,9.48,-19.41,120.62,85.25,12384.0
+Thematic – Technology,E-Commerce,IBUY,Amplify Online Retail ETF,Amplify,66.77,0.6,-7.7,-4.44,8.21,-12.35,77.13,60.37,13192.0
+Thematic – Technology,Disruptive Tech,ARKK,ARK Innovation ETF,ARK,89.1,-0.75,4.13,10.5,29.13,3.24,92.53,63.52,4586290.0
+Thematic – Energy & Climate,Clean Energy,ICLN,iShares Global Clean Energy ETF,iShares,17.0,-2.41,-1.73,-14.49,-6.91,10.97,23.69,15.32,6925480.0
+Thematic – Energy & Climate,Solar,TAN,Invesco Solar ETF,Invesco,43.97,-2.4,-7.57,-23.66,-20.67,0.78,73.93,43.0,848323.0
+Thematic – Energy & Climate,EVs & Future Mobility,DRIV,Global X Autonomous & Electric Vehicles ETF,Global X,33.12,-1.76,-4.02,-12.36,9.06,17.93,42.45,27.39,36828.0
+Thematic – Energy & Climate,Lithium & Battery,LIT,Global X Lithium & Battery Tech ETF,Global X,68.42,-1.67,-10.41,-11.5,-2.86,21.2,91.23,53.54,227674.0
+Thematic – Energy & Climate,Uranium,URNM,Sprott Uranium Miners ETF,Sprott,47.46,-6.24,-16.46,-10.67,-22.21,-18.8,83.99,47.13,689063.0
+Thematic – Energy & Climate,Water,PHO,Invesco Water Resources ETF,Invesco,67.83,-1.38,-4.79,-1.03,1.74,-5.42,74.2,63.98,70191.0
+Thematic – Healthcare,Biotech,IBB,iShares Biotechnology ETF,iShares,210.53,1.9,0.71,10.93,30.27,46.12,216.95,144.08,1566057.0
+Thematic – Healthcare,Genomics,ARKG,ARK Genomic Revolution ETF,ARK,54.22,6.48,14.8,28.0,103.57,95.25,54.22,24.82,4396779.0
 Thematic – Healthcare,Digital Health,EDOC,Global X Telemedicine & Digital Health ETF,Global X,,,,,,,,,
-Thematic – Other,Defense & Aerospace,ITA,iShares US Aerospace & Defense ETF,iShares,209.3,-2.2,-10.0,-11.5,-6.12,2.13,252.93,197.73,775106.0
-Thematic – Other,Agriculture,MOO,VanEck Agribusiness ETF,VanEck,82.13,-2.87,-3.37,3.67,1.85,14.81,88.85,67.64,440260.0
-Thematic – Other,Luxury,LUXE,Emles Luxury Goods ETF,Emles,9.61,2.34,24.81,28.13,21.03,13.73,10.51,6.86,274219.0
-Thematic – Other,Cannabis,MSOS,AdvisorShares Pure US Cannabis ETF,AdvisorShares,5.09,-4.5,2.0,8.53,32.9,-3.6,6.69,2.99,5268681.0
-Thematic – Other,Space,ARKX,ARK Space Exploration & Innovation ETF,ARK,31.92,-3.39,-1.33,-0.03,4.18,13.43,37.74,25.74,410996.0
-Thematic – Other,3D Printing,PRNT,3D Printing ETF,ARK,24.86,-0.92,-3.17,2.54,18.58,7.46,26.44,19.85,5068.0
-Geography – Americas,Canada,EWC,iShares MSCI Canada ETF,iShares,58.93,-3.01,-4.54,1.96,9.2,18.38,62.64,49.05,1727171.0
-Geography – Americas,Brazil,EWZ,iShares MSCI Brazil ETF,iShares,36.47,-4.68,2.59,5.19,-0.09,22.97,41.34,27.55,25347234.0
-Geography – Americas,Mexico,EWW,iShares MSCI Mexico ETF,iShares,72.05,-3.24,-5.79,-4.4,2.83,10.46,80.05,62.26,1070025.0
-Geography – Americas,Latin America,ILF,iShares Latin America 40 ETF,iShares,34.25,-4.36,-1.15,1.3,2.44,23.3,37.62,26.24,2420953.0
-Geography – Americas,Chile,ECH,iShares MSCI Chile ETF,iShares,37.94,-5.74,-7.44,-4.02,-0.8,17.74,46.63,30.9,443414.0
+Thematic – Other,Defense & Aerospace,ITA,iShares US Aerospace & Defense ETF,iShares,207.18,-3.15,-9.17,-13.26,-6.77,-0.75,252.93,197.73,786719.0
+Thematic – Other,Agriculture,MOO,VanEck Agribusiness ETF,VanEck,81.47,-3.37,-5.25,3.06,-0.9,13.67,88.85,67.64,458652.0
+Thematic – Other,Luxury,LUXE,Emles Luxury Goods ETF,Emles,9.91,11.1,29.71,32.13,24.97,16.59,10.51,6.86,283116.0
+Thematic – Other,Cannabis,MSOS,AdvisorShares Pure US Cannabis ETF,AdvisorShares,4.52,-16.76,-8.69,-6.61,18.95,-5.64,6.69,2.99,5148819.0
+Thematic – Other,Space,ARKX,ARK Space Exploration & Innovation ETF,ARK,31.9,-2.36,-1.48,-3.71,5.49,11.73,37.74,25.74,412624.0
+Thematic – Other,3D Printing,PRNT,3D Printing ETF,ARK,24.8,-0.7,-2.59,1.87,18.84,7.53,26.44,19.85,5082.0
+Geography – Americas,Canada,EWC,iShares MSCI Canada ETF,iShares,58.38,-2.13,-4.96,1.55,8.46,17.07,62.64,49.05,1710762.0
+Geography – Americas,Brazil,EWZ,iShares MSCI Brazil ETF,iShares,37.25,-0.32,3.39,7.81,2.55,25.56,41.34,27.55,25528147.0
+Geography – Americas,Mexico,EWW,iShares MSCI Mexico ETF,iShares,71.09,-3.17,-7.34,-6.61,-0.45,7.79,80.05,62.26,1088973.0
+Geography – Americas,Latin America,ILF,iShares Latin America 40 ETF,iShares,34.5,-1.82,-1.15,1.95,2.89,23.86,37.62,26.24,2738553.0
+Geography – Americas,Chile,ECH,iShares MSCI Chile ETF,iShares,37.81,-4.47,-6.64,-5.0,-0.24,16.94,46.63,30.9,457283.0
 Geography – Americas,Colombia,GXG,Global X MSCI Colombia ETF,Global X,,,,,,,,,
-Geography – Americas,Peru,EPU,iShares MSCI All Peru Capped ETF,iShares,89.59,-3.75,-2.94,7.42,18.35,50.4,94.97,58.29,32749.0
-Geography – Americas,Argentina,ARGT,Global X MSCI Argentina ETF,Global X,86.11,-7.29,-8.2,-5.34,-0.96,20.13,102.57,66.8,132637.0
-Geography – Europe,Europe Broad,VGK,Vanguard FTSE Europe ETF,Vanguard,87.85,-1.77,-4.25,1.08,10.15,14.3,92.96,75.59,2255668.0
-Geography – Europe,UK,EWU,iShares MSCI United Kingdom ETF,iShares,46.85,-1.72,-3.5,2.38,6.65,16.36,49.39,39.98,1004887.0
-Geography – Europe,Germany,EWG,iShares MSCI Germany ETF,iShares,41.9,-1.76,-6.03,3.13,8.7,3.46,44.59,37.33,987147.0
-Geography – Europe,France,EWQ,iShares MSCI France ETF,iShares,43.27,-2.21,-6.34,-3.46,3.41,1.71,47.9,40.71,308171.0
-Geography – Europe,Switzerland,EWL,iShares MSCI Switzerland ETF,iShares,59.97,-1.98,-5.28,-3.89,6.27,11.84,64.7,53.62,467135.0
-Geography – Europe,Italy,EWI,iShares MSCI Italy ETF,iShares,59.58,-1.93,-4.26,1.62,16.57,19.52,63.35,48.7,270424.0
-Geography – Europe,Spain,EWP,iShares MSCI Spain ETF,iShares,60.05,-2.44,-3.69,2.33,14.92,26.45,63.23,46.92,381277.0
-Geography – Europe,Netherlands,EWN,iShares MSCI Netherlands ETF,iShares,68.57,-0.01,0.09,1.98,19.82,24.65,71.61,52.96,190882.0
-Geography – Europe,Sweden,EWD,iShares MSCI Sweden ETF,iShares,50.61,-3.03,-5.72,3.18,7.69,11.07,54.35,43.79,175693.0
-Geography – Europe,Poland,EPOL,iShares MSCI Poland ETF,iShares,44.2,-3.01,1.66,15.5,26.07,43.34,45.76,30.52,394979.0
-Geography – Europe,Turkey,TUR,iShares MSCI Turkey ETF,iShares,34.75,-6.96,-14.97,-11.35,-9.76,2.8,43.21,31.19,219144.0
-Geography – Europe,Greece,GREK,Global X MSCI Greece ETF,Global X,85.35,0.58,0.11,15.03,33.76,36.6,87.51,60.29,41414.0
-Geography – Europe,Norway,ENOR,iShares MSCI Norway ETF,iShares,35.38,-2.7,-2.99,13.62,7.67,29.7,37.77,25.34,117716.0
-Geography – Europe,Denmark,EDEN,iShares MSCI Denmark ETF,iShares,110.08,-2.06,-6.78,0.78,12.21,4.31,123.46,97.32,7762.0
-Geography – Asia-Pacific,Asia ex-Japan,AAXJ,iShares MSCI All Country Asia ex Japan ETF,iShares,117.8,-2.07,0.81,0.8,20.28,31.62,124.21,87.59,480174.0
-Geography – Asia-Pacific,SE Asia,ASEA,Global X FTSE Southeast Asia ETF,Global X,21.2,-1.4,-0.98,8.2,11.43,28.87,22.0,16.19,21600.0
-Geography – Asia-Pacific,Japan,EWJ,iShares MSCI Japan ETF,iShares,96.51,-2.3,0.67,4.0,16.14,25.03,98.78,75.13,3878960.0
-Geography – Asia-Pacific,China,MCHI,iShares MSCI China ETF,iShares,52.1,-3.96,-5.67,3.21,-5.66,-18.99,65.75,50.48,1578772.0
-Geography – Asia-Pacific,Hong Kong,EWH,iShares MSCI Hong Kong ETF,iShares,22.22,-2.71,-3.14,5.36,0.89,8.39,24.16,19.7,2739633.0
-Geography – Asia-Pacific,Taiwan,EWT,iShares MSCI Taiwan ETF,iShares,114.11,-0.87,5.76,10.99,58.13,89.21,115.64,58.91,3930701.0
-Geography – Asia-Pacific,South Korea,EWY,iShares MSCI South Korea ETF,iShares,187.1,-2.87,3.83,-5.16,39.83,138.41,219.2,78.34,12626551.0
-Geography – Asia-Pacific,India,INDA,iShares MSCI India ETF,iShares,46.94,-2.8,-5.29,-5.29,-1.45,-10.01,55.29,45.42,4764827.0
-Geography – Asia-Pacific,Australia,EWA,iShares MSCI Australia ETF,iShares,28.37,-2.48,-5.43,1.43,2.42,8.45,30.43,24.19,2844470.0
-Geography – Asia-Pacific,Singapore,EWS,iShares MSCI Singapore ETF,iShares,33.43,-0.48,-1.47,12.71,21.89,23.27,34.57,26.24,1109025.0
-Geography – Asia-Pacific,Indonesia,EIDO,iShares MSCI Indonesia ETF,iShares,11.83,-2.71,-6.56,-0.25,-21.89,-31.21,18.86,10.6,1114826.0
-Geography – Asia-Pacific,Malaysia,EWM,iShares MSCI Malaysia ETF,iShares,27.25,-2.68,-3.91,1.26,-5.52,9.61,29.8,24.43,183282.0
-Geography – Asia-Pacific,Thailand,THD,iShares MSCI Thailand ETF,iShares,72.33,-2.94,0.06,4.66,9.61,25.49,75.06,55.78,71923.0
-Geography – Asia-Pacific,Philippines,EPHE,iShares MSCI Philippines ETF,iShares,23.02,-1.41,-3.32,-5.69,-6.08,-5.51,27.83,22.65,191724.0
-Geography – Asia-Pacific,Vietnam,VNM,VanEck Vietnam ETF,VanEck,17.14,-2.11,-5.72,-6.64,4.38,-2.91,19.8,16.34,548363.0
+Geography – Americas,Peru,EPU,iShares MSCI All Peru Capped ETF,iShares,88.73,-3.1,-3.09,7.6,17.08,47.26,94.97,58.29,33664.0
+Geography – Americas,Argentina,ARGT,Global X MSCI Argentina ETF,Global X,86.18,-5.4,-8.85,-5.83,-1.34,24.93,102.57,66.8,134471.0
+Geography – Europe,Europe Broad,VGK,Vanguard FTSE Europe ETF,Vanguard,86.8,-1.37,-5.07,-1.2,9.46,12.09,92.96,75.59,2286955.0
+Geography – Europe,UK,EWU,iShares MSCI United Kingdom ETF,iShares,46.53,-1.19,-3.8,0.82,6.3,14.62,49.39,39.98,1046639.0
+Geography – Europe,Germany,EWG,iShares MSCI Germany ETF,iShares,41.31,-1.34,-6.6,0.93,8.19,1.27,44.59,37.33,1003177.0
+Geography – Europe,France,EWQ,iShares MSCI France ETF,iShares,42.6,-2.36,-7.11,-5.69,2.77,-0.21,47.9,40.71,314519.0
+Geography – Europe,Switzerland,EWL,iShares MSCI Switzerland ETF,iShares,59.15,-2.02,-5.81,-6.48,5.02,8.97,64.7,54.1,464501.0
+Geography – Europe,Italy,EWI,iShares MSCI Italy ETF,iShares,58.72,-2.1,-5.72,-0.32,16.11,16.77,63.35,48.7,284739.0
+Geography – Europe,Spain,EWP,iShares MSCI Spain ETF,iShares,59.2,-1.91,-5.13,-0.05,13.96,23.2,63.23,46.92,382628.0
+Geography – Europe,Netherlands,EWN,iShares MSCI Netherlands ETF,iShares,67.75,0.71,-0.83,-1.93,18.2,22.44,71.61,52.96,191682.0
+Geography – Europe,Sweden,EWD,iShares MSCI Sweden ETF,iShares,49.99,-2.59,-6.4,0.75,7.12,9.76,54.35,43.79,179397.0
+Geography – Europe,Poland,EPOL,iShares MSCI Poland ETF,iShares,44.32,-0.58,0.5,15.18,29.01,43.33,45.76,30.52,405755.0
+Geography – Europe,Turkey,TUR,iShares MSCI Turkey ETF,iShares,33.8,-9.84,-16.19,-13.38,-10.85,0.98,43.21,31.19,222002.0
+Geography – Europe,Greece,GREK,Global X MSCI Greece ETF,Global X,85.7,3.27,0.6,13.45,36.48,36.88,87.51,60.29,42954.0
+Geography – Europe,Norway,ENOR,iShares MSCI Norway ETF,iShares,35.01,-3.39,-5.12,11.32,5.56,29.51,37.77,25.34,118346.0
+Geography – Europe,Denmark,EDEN,iShares MSCI Denmark ETF,iShares,109.26,-1.69,-6.88,-0.62,11.71,3.35,123.46,97.32,8764.0
+Geography – Asia-Pacific,Asia ex-Japan,AAXJ,iShares MSCI All Country Asia ex Japan ETF,iShares,116.44,-1.2,-0.27,-0.88,20.9,29.7,124.21,87.59,500694.0
+Geography – Asia-Pacific,SE Asia,ASEA,Global X FTSE Southeast Asia ETF,Global X,20.96,-1.41,-3.1,6.56,12.48,27.63,22.0,16.19,21560.0
+Geography – Asia-Pacific,Japan,EWJ,iShares MSCI Japan ETF,iShares,97.46,0.42,1.65,4.56,17.66,26.74,98.78,75.13,3790882.0
+Geography – Asia-Pacific,China,MCHI,iShares MSCI China ETF,iShares,52.19,-1.84,-4.62,2.76,-5.58,-19.24,65.75,50.48,1609534.0
+Geography – Asia-Pacific,Hong Kong,EWH,iShares MSCI Hong Kong ETF,iShares,22.11,-1.34,-3.49,4.94,-0.28,7.6,24.16,19.7,2720513.0
+Geography – Asia-Pacific,Taiwan,EWT,iShares MSCI Taiwan ETF,iShares,112.9,0.36,4.51,6.72,59.6,85.61,115.64,58.91,3999612.0
+Geography – Asia-Pacific,South Korea,EWY,iShares MSCI South Korea ETF,iShares,182.78,-1.55,1.06,-7.45,41.97,133.32,219.2,78.34,12356866.0
+Geography – Asia-Pacific,India,INDA,iShares MSCI India ETF,iShares,46.68,-2.85,-6.08,-5.08,0.63,-10.33,55.29,45.42,4841136.0
+Geography – Asia-Pacific,Australia,EWA,iShares MSCI Australia ETF,iShares,28.31,-0.18,-5.7,0.71,4.17,8.14,30.43,24.19,2877358.0
+Geography – Asia-Pacific,Singapore,EWS,iShares MSCI Singapore ETF,iShares,33.26,-0.21,-2.66,11.5,23.21,22.42,34.57,26.24,1138898.0
+Geography – Asia-Pacific,Indonesia,EIDO,iShares MSCI Indonesia ETF,iShares,11.73,-4.32,-7.86,0.69,-21.74,-31.24,18.86,10.6,1132133.0
+Geography – Asia-Pacific,Malaysia,EWM,iShares MSCI Malaysia ETF,iShares,27.38,-0.94,-3.56,1.29,-3.39,9.54,29.8,24.43,180046.0
+Geography – Asia-Pacific,Thailand,THD,iShares MSCI Thailand ETF,iShares,70.51,-3.82,-2.57,-0.42,10.49,24.2,75.06,55.78,73933.0
+Geography – Asia-Pacific,Philippines,EPHE,iShares MSCI Philippines ETF,iShares,22.74,-1.43,-4.25,-7.75,-5.13,-5.91,27.83,22.65,180611.0
+Geography – Asia-Pacific,Vietnam,VNM,VanEck Vietnam ETF,VanEck,16.95,-2.14,-6.15,-8.08,2.98,-4.79,19.8,16.34,559367.0
 Geography – Asia-Pacific,Pakistan,PAK,Global X MSCI Pakistan ETF,Global X,,,,,,,,,
-Geography – Asia-Pacific,New Zealand,ENZL,iShares MSCI New Zealand ETF,iShares,44.65,-3.54,-6.35,0.74,2.36,0.36,49.01,41.4,47093.0
-Geography – Middle East & Africa,Israel,EIS,iShares MSCI Israel ETF,iShares,121.44,-4.22,-1.47,3.05,1.37,25.81,136.87,96.33,25440.0
-Geography – Middle East & Africa,Saudi Arabia,KSA,iShares MSCI Saudi Arabia ETF,iShares,36.41,-2.52,-7.26,-3.68,-2.36,-6.81,40.02,35.29,436233.0
-Geography – Middle East & Africa,UAE,UAE,iShares MSCI UAE ETF,iShares,20.18,-0.02,3.04,4.91,12.32,12.09,21.48,16.86,227394.0
-Geography – Middle East & Africa,Qatar,QAT,iShares MSCI Qatar ETF,iShares,16.35,-2.15,-5.98,-9.42,-9.43,-11.86,19.45,16.35,12742.0
-Geography – Middle East & Africa,Kuwait,KWT,iShares MSCI Kuwait ETF,iShares,36.64,-0.13,-2.89,1.91,1.98,-2.11,39.37,34.83,2885.0
+Geography – Asia-Pacific,New Zealand,ENZL,iShares MSCI New Zealand ETF,iShares,45.08,-0.68,-6.32,0.94,6.31,0.35,49.01,41.4,45833.0
+Geography – Middle East & Africa,Israel,EIS,iShares MSCI Israel ETF,iShares,121.32,-2.83,-1.21,1.43,2.39,22.9,136.87,96.33,27223.0
+Geography – Middle East & Africa,Saudi Arabia,KSA,iShares MSCI Saudi Arabia ETF,iShares,36.32,-2.34,-6.39,-2.89,-2.24,-8.03,40.02,35.29,440762.0
+Geography – Middle East & Africa,UAE,UAE,iShares MSCI UAE ETF,iShares,20.07,-0.3,3.19,4.59,14.95,11.04,21.48,16.86,238948.0
+Geography – Middle East & Africa,Qatar,QAT,iShares MSCI Qatar ETF,iShares,16.29,-3.15,-6.43,-9.5,-7.44,-12.65,19.45,16.29,13903.0
+Geography – Middle East & Africa,Kuwait,KWT,iShares MSCI Kuwait ETF,iShares,36.67,-0.38,-3.87,0.23,3.75,-2.28,39.37,34.83,2879.0
 Geography – Middle East & Africa,Egypt,EGPT,VanEck Egypt Index ETF,VanEck,,,,,,,,,
-Geography – Middle East & Africa,South Africa,EZA,iShares MSCI South Africa ETF,iShares,64.85,-6.22,-8.3,2.92,3.1,10.21,79.85,57.0,165756.0
+Geography – Middle East & Africa,South Africa,EZA,iShares MSCI South Africa ETF,iShares,63.98,-3.7,-9.25,0.88,2.48,7.58,79.85,57.0,164581.0
 Geography – Middle East & Africa,Nigeria,NGE,Global X MSCI Nigeria ETF,Global X,,,,,,,,,
-Geography – Global / Multi-Region,Global All Country,VT,Vanguard Total World Stock ETF,Vanguard,158.45,-1.73,-1.34,3.19,15.03,17.25,161.97,132.53,2372754.0
-Geography – Global / Multi-Region,World Index,URTH,iShares MSCI World ETF,iShares,206.71,-1.58,-1.3,4.74,15.26,15.94,211.51,173.78,464673.0
-Geography – Global / Multi-Region,Developed ex-US,EFA,iShares MSCI EAFE ETF,iShares,104.54,-1.84,-2.95,1.95,10.8,16.27,108.81,88.22,11940103.0
-Geography – Global / Multi-Region,All World ex-US,VEU,Vanguard FTSE All-World ex-US ETF,Vanguard,83.56,-2.2,-1.96,1.31,12.65,20.56,86.21,68.41,2507420.0
+Geography – Global / Multi-Region,Global All Country,VT,Vanguard Total World Stock ETF,Vanguard,157.85,-0.93,-1.43,1.56,15.18,16.45,161.97,132.53,2422583.0
+Geography – Global / Multi-Region,World Index,URTH,iShares MSCI World ETF,iShares,206.23,-0.77,-1.24,2.48,15.43,15.27,211.51,173.78,457141.0
+Geography – Global / Multi-Region,Developed ex-US,EFA,iShares MSCI EAFE ETF,iShares,103.89,-0.87,-3.31,0.43,10.77,15.08,108.81,88.22,12313469.0
+Geography – Global / Multi-Region,All World ex-US,VEU,Vanguard FTSE All-World ex-US ETF,Vanguard,82.97,-1.19,-2.45,-0.07,12.71,19.29,86.21,68.41,2541841.0
 Geography – Global / Multi-Region,Japan Hedged,DXJH,WisdomTree Japan Hedged Quality Dividend,WisdomTree,,,,,,,,,
-Geography – Global / Multi-Region,Small Cap World,VSS,Vanguard FTSE All-World ex-US Small-Cap ETF,Vanguard,155.54,-2.67,-3.01,1.84,8.4,12.81,161.49,132.75,277002.0
-Geography – Emerging Markets,EM Broad,VWO,Vanguard FTSE Emerging Markets ETF,Vanguard,59.62,-2.42,-1.74,1.97,11.16,13.05,61.32,51.37,6409702.0
-Geography – Emerging Markets,EM ex-China,EMXC,iShares MSCI Emerging Markets ex China ETF,iShares,100.35,-2.1,2.24,0.3,25.95,52.76,106.49,65.43,1736202.0
-Geography – Emerging Markets,EM Small Cap,EWX,SPDR S&P Emerging Markets Small Cap ETF,SPDR,71.39,-2.1,-2.9,-2.07,8.59,9.7,76.46,62.99,28391.0
+Geography – Global / Multi-Region,Small Cap World,VSS,Vanguard FTSE All-World ex-US Small-Cap ETF,Vanguard,155.25,-1.13,-2.85,1.15,9.25,12.33,161.49,132.75,279223.0
+Geography – Emerging Markets,EM Broad,VWO,Vanguard FTSE Emerging Markets ETF,Vanguard,59.31,-1.35,-1.81,0.41,11.6,11.97,61.32,51.37,6439109.0
+Geography – Emerging Markets,EM ex-China,EMXC,iShares MSCI Emerging Markets ex China ETF,iShares,99.08,-1.34,0.86,-1.37,26.71,50.44,106.49,65.43,1557736.0
+Geography – Emerging Markets,EM Small Cap,EWX,SPDR S&P Emerging Markets Small Cap ETF,SPDR,71.1,-1.17,-3.2,-2.92,10.08,8.56,76.46,62.99,27763.0
 Geography – Emerging Markets,EM Min Vol,EVAL,iShares MSCI EM Min Volatility Factor ETF,iShares,,,,,,,,,
 Geography – Frontier Markets,Frontier Markets,FM,iShares MSCI Frontier and Select EM ETF,iShares,,,,,,,,,
-Geography – Frontier Markets,Africa,AFK,VanEck Africa Index ETF,VanEck,27.69,-5.66,-5.11,7.49,10.85,15.85,30.56,23.03,48552.0
+Geography – Frontier Markets,Africa,AFK,VanEck Africa Index ETF,VanEck,27.53,-3.94,-5.46,6.95,9.42,14.14,30.56,23.03,50350.0
 Geography – Frontier Markets,Kazakhstan,KAZ,iShares MSCI Kazakhstan ETF,iShares,,,,,,,,,
